@@ -17,11 +17,11 @@ AI is part of both what I build and how I work. I use it to explore ideas and wo
 | Project | What to look at |
 | :--- | :--- |
 | [FluidFill](https://github.com/harsha0602/FluidFill) | Fill DOCX templates through a web form, with field extraction and reusable answers. **Next.js, TypeScript, FastAPI, PostgreSQL.** [Demo](https://youtu.be/StmRbEnZBgs) |
-| [Python Execution Service](https://github.com/harsha0602/Safe-Python-Execution-Service-Flask-nsjail-) | Run submitted Python inside nsjail with network restrictions and resource limits. **Python, Flask, Docker, Cloud Run.** |
 | [Clozyt](https://github.com/harsha0602/Clozyt-Recommendation-Algo) | A shopping prototype that uses image embeddings, vector search, and swipe feedback for recommendations. **Next.js, Python, Fashion-CLIP, Qdrant.** |
 | [Realtime Study Rooms](https://github.com/harsha0602/Websockets_RTC) | Video calls and chat, plus a step-by-step tutorial for building the stack. **React, Node.js, WebSockets, WebRTC.** |
+| [JobCity](https://github.com/harsha0602/JobCity) | A 3D job-search tracker with ingestion from five ATS sources, normalized listings, and authenticated APIs. **React Three Fiber, FastAPI, MongoDB.** |
 | [Food Sage](https://github.com/harsha0602/foodSage) | A team project that extracts ingredients from food labels with image processing and OCR. **Python, OpenCV, Tesseract.** Visual AI Hackathon winner. |
-| [Adaptive Parking Simulation](https://github.com/harsha0602/ACCPS-Sim) | Simulates entry and exit gates, occupancy-based pricing, and a full day of vehicle activity. **Java, Maven, Python, pandas.** |
+| [FluxRate (Parking Simulation)](https://github.com/harsha0602/ACCPS-Sim) | Simulates entry and exit gates, occupancy-based pricing, and a full day of vehicle activity. **Java, Maven, Python, pandas.** |
 
 Some linked repositories are forks of team projects. Their upstream repositories and contributors remain credited on GitHub.
 
