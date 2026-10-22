@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Harshavardhan Kuthadi</title>
+  <desc id="desc">Software generalist and AI engineer. Curious across stacks. Careful about what ships.</desc>
+  <rect width="1200" height="250" rx="18" fill="#101827"/>
+  <path d="M950 0v250M1030 0v250M1110 0v250M900 55h300M900 135h300M900 215h300" stroke="#22314b" fill="none"/>
+  <rect x="45" y="45" width="5" height="160" rx="2" fill="#60dec0"/>
+  <text x="75" y="79" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3" fill="#60dec0">SOFTWARE GENERALIST / AI ENGINEER</text>
+  <text x="72" y="145" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#f3f6fc">Harshavardhan Kuthadi</text>
+  <text x="75" y="192" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#b9c7dd">Curious across stacks. Careful about what ships.</text>
+  <circle cx="1030" cy="135" r="36" fill="#101827" stroke="#60dec0" stroke-width="2"/>
+  <path d="m1022 123-12 12 12 12m16-24 12 12-12 12" fill="none" stroke="#89aaff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
